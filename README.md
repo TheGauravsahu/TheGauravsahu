@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://gauravsahu.vercel.app/](https://gauravsahu.vercel.app/)
 
-- ⚡ Fun fact **I am doing it as a heavy**
+- ⚡ Fun fact **I am doing it as a hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
