@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Gaurvice**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **SvelteKit**
 
-- 💬 Ask me about **Django , Next JS**
+- 💬 Ask me about **Django , SvelteKit**
 
 - 📫 How to reach me **iamgauravsahu7@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am a full stack developer**
 
 
 
