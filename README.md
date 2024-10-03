@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegauravsahu&label=Profile%20views&color=0e75b6&style=flat" alt="gauarvsahu" /> </p>
 
-- 🔭 I’m currently working on **Gaurvice**
+- 🔭 I’m currently working on **Blog Website**
 
 - 🌱 I’m currently learning **SvelteKit**
 
