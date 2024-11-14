@@ -9,9 +9,9 @@
 
 ## 🚀 Current Endeavors
 
-- 🔭 Working on **Blog Website**
-- 🌱 Learning **SvelteKit**
-- 💬 Ask me about **Django, SvelteKit**
+- 🔭 Working on **Airbnb clone**
+- 🌱 Learning **Next Js**
+- 💬 Ask me about **Next Js, MERN stack**
 - ⚡ Fun fact: I am a full stack developer who loves turning coffee into code
 
 ## 🛠️ Technologies & Tools
