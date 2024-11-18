@@ -4,7 +4,6 @@
   <p>A passionate FullStack Developer from India</p>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-gauravsahu.vercel.app-blue?style=flat&logo=google-chrome)](https://gauravsahu.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-iamgauravsahu7%40gmail.com-red?style=flat&logo=gmail)](mailto:iamgauravsahu7@gmail.com)
 </div>
 
 ## 🚀 Current Endeavors
