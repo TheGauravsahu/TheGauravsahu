@@ -8,7 +8,7 @@
 
 ## 🚀 Current Endeavors
 
-- 🔭 Working on **MERN Blog**
+- 🔭 Working on **Fair Management System**
 - 🌱 Learning **Next Js**
 - 💬 Ask me about **Next Js, MERN stack**
 - ⚡ Fun fact: I am a full stack developer who loves turning coffee into code
