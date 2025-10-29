@@ -8,9 +8,9 @@
 
 ## 🚀 Current Endeavors
 
-- 🔭 Working on **NextJob**
-- 🌱 Learning **Next Js**
-- 💬 Ask me about **Next Js, MERN stack**
+- 🔭 Working on **Expo Projects**
+- 🌱 Learning **React Native**
+- 💬 Ask me about **Next Js, MERN stack, React Native, Expo**
 - ⚡ Fun fact: I am a full stack developer who loves turning coffee into code
 
 ## 🛠️ Technologies & Tools
