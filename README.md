@@ -37,3 +37,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGauravsahu&layout=compact&theme=tokyonight)](https://github.com/TheGauravsahu)
 
 </div>
+
+## Contributions
+![snake animation](https://github.com/TheGauravsahu/TheGauravsahu/blob/output/snake.svg)
