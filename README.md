@@ -8,8 +8,8 @@
 
 ## 🚀 Current Endeavors
 
-- 🔭 Working on **Expo Projects**
-- 🌱 Learning **React Native**
+- 🔭 Working on **MERN stack projects**
+- 🌱 Learning **Backend technologies**
 - 💬 Ask me about **Next Js, MERN stack, React Native, Expo**
 - ⚡ Fun fact: I am a full stack developer who loves turning coffee into code
 
